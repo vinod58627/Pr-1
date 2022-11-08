@@ -1,0 +1,14 @@
+ul{
+    background-color: black;
+    
+}
+.nav{
+    display: inline;
+    margin-left: 10px;
+}
+.navlink{
+    text-decoration: none;
+    color:white;
+    
+}
+
